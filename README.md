@@ -1,6 +1,6 @@
-# CURRÍCULO
+# CURRÍCULO 📄
 
-## DADOS PESSOAIS 
+## DADOS PESSOAIS 👩🏽
 
 
 - **NOME COMPLETO:** Mayara Leme Cabetti
@@ -15,17 +15,17 @@
 
 - **GITHUB:** [github](https://github.com/MayCabetti)
 
-## OBJETIVO PROFISSIONAL
+## OBJETIVO PROFISSIONAL 👔
 
 - Atuar como desenvolvedora de software, aplicando meus conhecimentos adquiridos durante o curso técnico e desenvolvendo novas habilidades profissionais.
 
-## FORMAÇÃO ACADÊMICA
+## FORMAÇÃO ACADÊMICA 🏫
 
 - Ensino Fundamental - Cursado em diversas Instituições de Ensino
 - Ensino Médio - SESI (Previsão de conclusão: 2027)
 - Técnico em Desenvolvimento de Sistemas - SENAI (Previsão de conclusão: 2027)
 
-## CONHECIMENTOS TÉCNICOS 
+## CONHECIMENTOS TÉCNICOS ⚙️
 
 - JavaScript
 - Git
@@ -34,7 +34,7 @@
 - VisualStudio Code
 - Cisco
 
-## PROJETOS DESENVOLVIDOS
+## PROJETOS DESENVOLVIDOS 📚
 
 - Projetos utilizando programação em JavaScript
 - Exercícios com Vetores
@@ -42,14 +42,14 @@
 - Projeto Lean Canvas
 - Projeto Scrum
 
-## CURSOS COMPLEMENTARES
+## CURSOS COMPLEMENTARES 💻
 
 - Ética na Inteligência Artificial
 - Exel Básico
 - Fundamentos da Inteligência Artificia
 - Por dentro da Segurança Cibernética
 
-## COMPETÊNCIAS 
+## COMPETÊNCIAS 🎒
 
 - Trabalho em equipe
 - Organização
@@ -58,6 +58,6 @@
 - Proatividade
 - Responsabilidade
 
-## EXPERIÊNCIA PROFISSIONAL 
+## EXPERIÊNCIA PROFISSIONAL ⚡
 
 -Ainda não possuo experiência profissional na área de tecnologia, porém desenvolvo projetos acadêmicos e busco minha primeira oportunidade.
