@@ -6,10 +6,29 @@
 
 - **CIDADE E ESTADO:** Sumaré - SP 
 
-**TELEFONE:** (11) 93719-0642
+- **TELEFONE:** (11) 93719-0642
 
-**EMAIL PROFISSIONAL:** mayara.cabetti@edu.senai.br
+- **EMAIL PROFISSIONAL:** mayara.cabetti@edu.senai.br
 
-**LINKEDIN:** [www.linkedin.com/in/mayaralemecabetti](https://www.linkedin.com/in/mayaralemecabetti/)
+- **LINKEDIN:** [linkedin](https://www.linkedin.com/in/mayaralemecabetti/)
 
-**GITHUB:** https://github.com/MayCabetti
+- **GITHUB:** [github](https://github.com/MayCabetti)
+
+## OBJETIVO PROFISSIONAL
+
+- Atuar como desenvolvedora de software, aplicando meus conhecimentos adquiridos durante o curso técnico e desenvolvendo novas habilidades profissionais.
+
+## FORMAÇÃO ACADÊMICA
+
+- Técnico em Desenvolvimento de Sistemas
+- SENAI
+- Previsão de conclusão: 2026
+
+## CONHECIMENTOS TÉCNICOS 
+
+- JavaScript
+- Git
+- GitHub
+- Lógica de Programação
+- VisualStudio Code
+- 
