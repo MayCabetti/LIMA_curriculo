@@ -1,6 +1,8 @@
 # CURRÍCULO
 
+
 ## DADOS PESSOAIS 
+
 
 - **NOME COMPLETO:** Mayara Leme Cabetti
 
