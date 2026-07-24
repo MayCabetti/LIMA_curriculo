@@ -2,9 +2,9 @@
 
 ## DADOS PESSOAIS 
 
-**NOME COMPLETO:** Mayara Leme Cabetti
+- **NOME COMPLETO:** Mayara Leme Cabetti
 
-**CIDADE E ESTADO:** Sumaré - SP 
+- **CIDADE E ESTADO:** Sumaré - SP 
 
 **TELEFONE:** (11) 93719-0642
 
