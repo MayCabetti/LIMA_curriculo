@@ -1,5 +1,5 @@
 # CURRÍCULO
-
+---
 
 ## DADOS PESSOAIS 
 
