@@ -1,5 +1,4 @@
 # CURRÍCULO
----
 
 ## DADOS PESSOAIS 
 
@@ -22,9 +21,9 @@
 
 ## FORMAÇÃO ACADÊMICA
 
-- Técnico em Desenvolvimento de Sistemas
-- SENAI
-- Previsão de conclusão: 2026
+- Ensino Fundamental - Cursado em diversas Instituições de Ensino
+- Ensino Médio - SESI (Previsão de conclusão: 2027)
+- Técnico em Desenvolvimento de Sistemas - SENAI (Previsão de conclusão: 2027)
 
 ## CONHECIMENTOS TÉCNICOS 
 
@@ -33,4 +32,32 @@
 - GitHub
 - Lógica de Programação
 - VisualStudio Code
-- 
+- Cisco
+
+## PROJETOS DESENVOLVIDOS
+
+- Projetos utilizando programação em JavaScript
+- Exercícios com Vetores
+- Exercícios com Laços de Repetição
+- Projeto Lean Canvas
+- Projeto Scrum
+
+## CURSOS COMPLEMENTARES
+
+- Ética na Inteligência Artificial
+- Exel Básico
+- Fundamentos da Inteligência Artificia
+- Por dentro da Segurança Cibernética
+
+## COMPETÊNCIAS 
+
+- Trabalho em equipe
+- Organização
+- Comunicação
+- Facilidade para aprender
+- Proatividade
+- Responsabilidade
+
+## EXPERIÊNCIA PROFISSIONAL 
+
+-Ainda não possuo experiência profissional na área de tecnologia, porém desenvolvo projetos acadêmicos e busco minha primeira oportunidade.
