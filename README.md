@@ -79,14 +79,3 @@
 ## EXPERIÊNCIA PROFISSIONAL ⚡
 
 - Ainda não possuo experiência profissional na área de tecnologia, porém desenvolvo projetos acadêmicos e busco minha primeira oportunidade.
-
-
-### AHHHHHHHHHH
-
-#### AHHHHHHHHHHHHH
-
-##### AHHHHH
-
-###### AHHHHHHHHHHH
-
-
