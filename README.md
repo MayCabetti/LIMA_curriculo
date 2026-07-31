@@ -29,7 +29,7 @@
 
 ## FORMAÇÃO ACADÊMICA 🏫
 
-- Ensino Fundamental - Cursado em diversas Instituições de Ensino
+- Ensino Fundamental - Cursado em diversas Instituições Privadas de Ensino
 - Ensino Médio - SESI (Previsão de conclusão: 2027)
 - Técnico em Desenvolvimento de Sistemas - SENAI (Previsão de conclusão: 2027)
 
