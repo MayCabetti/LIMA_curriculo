@@ -53,6 +53,7 @@
 - Exercícios com Laços de Repetição
 - Projeto Lean Canvas
 - Projeto Scrum
+- Participação no competição Grand Prix - Desafio de Ideias (SENAI)
 
 
 
